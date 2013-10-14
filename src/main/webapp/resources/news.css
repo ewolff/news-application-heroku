@@ -1,0 +1,13 @@
+.title {
+	display: block;
+	font-size: 18pt;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.text {
+	display: block;
+	font-size: 12pt;
+	margin-top: 6pt;
+	margin-bottom: 18pt;
+}
